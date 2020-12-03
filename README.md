@@ -120,9 +120,10 @@ Fungsi nya ini untuk menjalankan file library root nya yaitu dari folder bernama
 
 ![hasiltugas](foto/hasiltugas.png)
 
-# Flowchar
+# Flowchart
 
-![file.png](foto/file.png.png)
+![no1](foto/no1.PNG)
+
 
 Cukup sekian tugas dari saya jika ada kesalahan saya mohon maaf yang sebesar besar.
 
