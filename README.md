@@ -4,7 +4,7 @@ ________________________________________________________________________________
 
 # LAB 6
 
-![Latihan 1](tugas) <br>
+![tugas](foto/tugas.png) <br>
 
 
 
@@ -14,13 +14,13 @@ Pada tugas LAB 6, saya diminta untuk membuat sebuah program menambahkan data ke 
 
 * Disini saya membuat file library root nya terlebih dahulu dengan nama folder yaitu data:
 
-![Latihan 1.1](poto1) <br>
+![poto1](foto/poto1.png) <br>
 
-![Latihan 1.2](poto2) <br>
+![poto2](foto/poto2.png) <br>
 
 * Setelah itu buat lah file python nya dengan nama (lab6.py) tapi itu terserah kalian mau menggunakan nama apa
 
-![Latihan 1.3](poto3) <br>
+![poto3](foto/poto3.png) <br>
 
 Lalu mari kita mengcoding file tersebut dengan syntax seperti di bawah ini
 
@@ -83,7 +83,7 @@ Jika sudah memasukan semua syntax diatas jangan di run terlebih dahulu nanti fil
 
 * Selanjutnya kita bikin file pythonnya tetapi di luar folder data untuk menjalankan file yang barusan di coding oleh kita. File yang kita akan bikin berilah nama (main.py) karna itu akan menjadi file yang akan menjalankan file library root yang telah kita bikin sebelumnya.
 
-![Foto Lat1](poto4) <br>
+![poto4](foto/poto4.png) <br>
 
 * Jika sudah mari kita coding lagi file ini mari kita skuylah. Seperti biasa mengikuti syntax nya oke.
 
