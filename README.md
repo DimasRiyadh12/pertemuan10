@@ -122,7 +122,8 @@ Fungsi nya ini untuk menjalankan file library root nya yaitu dari folder bernama
 
 # Flowchart
 
-![no1](foto/no1.PNG)
+![no1](https://user-images.githubusercontent.com/73042485/100978516-14b84b00-3575-11eb-92c7-a191c4a45780.png)
+
 
 
 Cukup sekian tugas dari saya jika ada kesalahan saya mohon maaf yang sebesar besar.
